@@ -25,4 +25,4 @@ Here.
 ## More?
 If you need any help, open issue or join to our discord server: https://discord.gg/Qw32UFVbSj
 
-Thanks for reading, Lakkit Team :)
+Thanks for reading, Lakkit Team :D
